@@ -18,46 +18,10 @@ session_start(); #inicializamos variables de sesion
     <link href="https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Dongle&family=Edu+VIC+WA+NT+Beginner:wght@500&family=Fjalla+One&family=Lato:ital@1&family=Montserrat:wght@300&family=Oswald:wght@200&family=Poppins:ital,wght@0,400;0,600;0,700;1,700&family=Roboto:wght@300&family=The+Nautigal:wght@700&family=Updock&display=swap&family=Edu+SA+Beginner:wght@500" rel="stylesheet">
      <!-- Bootstrap CSS -->
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-     <link rel="stylesheet" href="estilo.css">
+     <link rel="stylesheet" href="css/estilo.css">
     
      <title>Portfolio</title>
-     <style>
-            *{
-                margin: 0; 
-                padding: 0; 
-                box-sizing: border-box;
-            }
-            p{
-                font-family: 'Edu SA Beginner', cursive;
-            }
-            label{
-                font-family: 'Edu SA Beginner', cursive;
-                font-size: 1.2rem;
-            }
 
-            .tabla{
-                background-color: rgb(189, 189, 189)!important;
-                }
-            .color{
-                background-color: rgb(189, 189, 189)!important;
-                
-            }
-
-
-            @media screen and (max-width: 800px) {
-            
-                .tabla{
-                    width: 80%!important;
-                    font-size: 0.8em!important;
-                    background-color: white!important;
-                }
-                .texto{
-                    text-overflow: clip!important;
-                    
-                }
-            }
-                    
-     </style>
 </head>
 <body>
 <div class="container-fluid">
@@ -108,9 +72,7 @@ session_start(); #inicializamos variables de sesion
                             </lord-icon>
                             <a class="nav-link active" href="cerrar.php">Cerrar Sesión de User: <span><?php echo $_SESSION['usuario']; ?></span>  </a> 
                         </div>
-                   
                     </li>
-                
                 </ul>
             
             </div>
