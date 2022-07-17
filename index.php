@@ -231,7 +231,7 @@
                                 <input type="email" name="email" id="email" class="form-control mt-4" placeholder="Email" required>
                                 <textarea name="message" id="message" class="form-control my-4" placeholder="Ingrese su consulta" required></textarea>
                                 
-                                <input type="submit" value="Enviar" id='WSP' class="btn-form mb-3">
+                                <input type="submit" value="Enviar" id='' class="btn-form mb-3">
                             
                             </form>
                         </div>
