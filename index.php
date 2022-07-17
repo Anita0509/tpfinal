@@ -61,7 +61,7 @@
                         Luján · Buenos Aires - Argentina · (11) 5045-3200 ·
                         <a href="mailto:anapoolalvarez@gmail.com">anapoolalvarez@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                    <p class="lead mb-5">Hola! En este último tiempo me estoy volviendo apasionada en la programación y diseño Web, también puedo ofrecerte asesoramiento sobre dominios y hosting.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/ana-paula-alvarez-a56380100" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/Anita0509"  target="_blank"><i class="fab fa-github"></i></a>
@@ -185,8 +185,8 @@
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Mis trabajos</h2>
-                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-                    <p class="mb-4">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                    <p>Comparto los proyectos que realicé, tengo experiencia tanto en webs institucionales como tiendas con plataformas de pago online.</p>
+                    <p class="mb-4">Sigo capacitándome para poder resolver de una manera más eficiente los proyectos futuros. </p>
 
                     <div class="row row-cols-1 row-cols-md-3 g-4">
  
